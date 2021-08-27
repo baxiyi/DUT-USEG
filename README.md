@@ -1,7 +1,7 @@
 # DUT-USEG
 
-> [**An Underwater Image Semantic Segmentation Method Focusing on Boundaries and a Real Underwater Scene Semantic Segmentation Dataset**](https://arxiv.org/abs/2108.11727)         
-> [Zhiwei Ma](https://arxiv.org/search/cs?searchtype=author&query=Ma%2C+Z), [Haojie Li](https://arxiv.org/search/cs?searchtype=author&query=Li%2C+H), [Zhihui Wang](https://arxiv.org/search/cs?searchtype=author&query=Wang%2C+Z), [Dan Yu](https://arxiv.org/search/cs?searchtype=author&query=Yu%2C+D), [Tianyi Wang](https://arxiv.org/search/cs?searchtype=author&query=Wang%2C+T), [Yingshuang Gu](https://arxiv.org/search/cs?searchtype=author&query=Gu%2C+Y), [Xin Fan](https://arxiv.org/search/cs?searchtype=author&query=Fan%2C+X), [Zhongxuan Luo](https://arxiv.org/search/cs?searchtype=author&query=Luo%2C+Z)
+> [**An Underwater Image Semantic Segmentation Method Focusing on Boundaries and a Real Underwater Scene Semantic Segmentation Dataset**](https://arxiv.org/abs/2108.11727)           
+> [Zhiwei Ma](https://arxiv.org/search/cs?searchtype=author&query=Ma%2C+Z), [Haojie Li](https://arxiv.org/search/cs?searchtype=author&query=Li%2C+H), [Zhihui Wang](https://arxiv.org/search/cs?searchtype=author&query=Wang%2C+Z), [Dan Yu](https://arxiv.org/search/cs?searchtype=author&query=Yu%2C+D), [Tianyi Wang](https://arxiv.org/search/cs?searchtype=author&query=Wang%2C+T), [Yingshuang Gu](https://arxiv.org/search/cs?searchtype=author&query=Gu%2C+Y), [Xin Fan](https://arxiv.org/search/cs?searchtype=author&query=Fan%2C+X), [Zhongxuan Luo](https://arxiv.org/search/cs?searchtype=author&query=Luo%2C+Z)  
 > ChinaMM 2021
 
 Introduction
